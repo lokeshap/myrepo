@@ -7,7 +7,7 @@
 
     <body>
 <div align="center">
-                <h1>Hello Guys</h1>
+                <h1>Hello Guys! How are you</h1>
                 <h2>Congratulations! You have successfully installed an application to OpsWorks!</h2>
                 <p>You PHP Application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in a new stack and layer in OpsWorks.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
